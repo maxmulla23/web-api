@@ -30,3 +30,6 @@
 /home/mulla/PizzaStore/obj/Debug/net7.0/PizzaStore.pdb
 /home/mulla/PizzaStore/obj/Debug/net7.0/PizzaStore.genruntimeconfig.cache
 /home/mulla/PizzaStore/obj/Debug/net7.0/ref/PizzaStore.dll
+/home/mulla/PizzaStore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/mulla/PizzaStore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/mulla/PizzaStore/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll

@@ -8,9 +8,6 @@ namespace PizzaStore.Models
         public string? Name { get; set;}
         public string? Description { get; set;}
     }
-    class PizzaDB: DbContext  //sets up the in-memory database
-    {
-        public PizzaDB(DbContextOptions options) : base(options) {}
-        public DbSet<Pizza> Pizzas { get; set; } = null!;
-    }
+   
+    
 }
